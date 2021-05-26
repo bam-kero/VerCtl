@@ -3,8 +3,8 @@
      - "{{ pt_proxy_servers_vars }}"
 
    # hosts: localhost
-   # hosts: pt_proxy1
-   hosts: pt_proxy2
+   hosts: pt_proxy1
+   # hosts: pt_proxy2
    # hosts: pt_ansible2
 
    gather_facts: false
