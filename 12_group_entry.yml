@@ -4,8 +4,8 @@
 
    # hosts: localhost
    # hosts: pt_proxy1
-   hosts: pt_proxy2
-   # hosts: pt_ansible2
+   # hosts: pt_proxy2
+   hosts: pt_ansible2
 
    gather_facts: false
    remote_user: "{{ remote_user }}"
